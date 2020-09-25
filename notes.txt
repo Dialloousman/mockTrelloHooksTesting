@@ -1,0 +1,28 @@
+todo:
+
+----------------------improve
+height of the containers <<<
+
+float add card input to bottom  <<<
+
+fix css
+
+add modal when card clicked
+---------------------------
+App:
+    create state:
+        tether add card 
+        
+        tether add list
+
+list:
+    container:
+        add new list button
+
+card:
+    hand del handler for card
+        - log 
+
+todo: 
+    console.log X button 
+    add functionality to X list 
